@@ -1,0 +1,143 @@
+{
+    "employees": [
+        {
+            "ContractType": "0",
+            "HourlyCompensation": "0",
+            "ID": "8",
+            "MonthlyCompensation": "0",
+            "Name": "testF1",
+            "NumberOfHours": "0",
+            "SSN": "0",
+            "Salary": "0",
+            "Tel": ""
+        },
+        {
+            "ContractType": "0",
+            "ID": "9",
+            "MonthlyCompensation": "0",
+            "Name": "testF2",
+            "SSN": "66666",
+            "Salary": "0",
+            "Tel": "88888"
+        },
+        {
+            "ContractType": "0",
+            "ID": "11",
+            "MonthlyCompensation": "0",
+            "Name": "testF3",
+            "SSN": "88888",
+            "Salary": "0",
+            "Tel": "01556999"
+        },
+        {
+            "ContractType": "0",
+            "ID": "12",
+            "MonthlyCompensation": "0",
+            "Name": "testF4",
+            "SSN": "0",
+            "Salary": "0",
+            "Tel": ""
+        },
+        {
+            "ContractType": "0",
+            "ID": "13",
+            "MonthlyCompensation": "502",
+            "Name": "xol2",
+            "SSN": "222256",
+            "Salary": "502",
+            "Tel": "22254"
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "6",
+            "ID": "14",
+            "Name": "xol2",
+            "NumberOfHours": "6",
+            "SSN": "5562",
+            "Salary": "36",
+            "Tel": "8852"
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "5",
+            "ID": "113",
+            "Name": "xol44",
+            "NumberOfHours": "5",
+            "SSN": "857",
+            "Salary": "25",
+            "Tel": "03556"
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "5",
+            "ID": "114",
+            "Name": "testF5",
+            "NumberOfHours": "7",
+            "SSN": "0",
+            "Salary": "35",
+            "Tel": ""
+        },
+        {
+            "BonusPercentage": "10",
+            "ContractType": "2",
+            "ID": "115",
+            "MonthlyCompensation": "600",
+            "Name": "xol6",
+            "OutcomeClaim": "1",
+            "RealizedOutput": "11",
+            "SSN": "0",
+            "Salary": "710",
+            "Tel": ""
+        },
+        {
+            "ContractType": "0",
+            "ID": "116",
+            "MonthlyCompensation": "505",
+            "Name": "oo",
+            "SSN": "0",
+            "Salary": "505",
+            "Tel": ""
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "5",
+            "ID": "117",
+            "Name": "popop",
+            "NumberOfHours": "11",
+            "SSN": "0",
+            "Salary": "55",
+            "Tel": ""
+        },
+        {
+            "BonusPercentage": "17",
+            "ContractType": "2",
+            "ID": "118",
+            "MonthlyCompensation": "600",
+            "Name": "xol6",
+            "OutcomeClaim": "1",
+            "RealizedOutput": "11",
+            "SSN": "0",
+            "Salary": "710",
+            "Tel": ""
+        },
+        {
+            "ContractType": "0",
+            "ID": "119",
+            "MonthlyCompensation": "555",
+            "Name": "oooo",
+            "SSN": "0",
+            "Salary": "555",
+            "Tel": ""
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "5",
+            "ID": "120",
+            "Name": "popopppp",
+            "NumberOfHours": "11",
+            "SSN": "0",
+            "Salary": "55",
+            "Tel": ""
+        }
+    ]
+}

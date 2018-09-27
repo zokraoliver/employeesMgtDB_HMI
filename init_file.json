@@ -1,0 +1,55 @@
+{"employees":[
+        {
+            "BonusPercentage": "10",
+            "ContractType": "2",
+            "ID": "128",
+            "MonthlyCompensation": "1000",
+            "Name": "tttt",
+            "OutcomeClaim": "1",
+            "RealizedOutput": "20",
+            "SSN": "0",
+            "Salary": "1200",
+            "Tel": ""
+        },
+        {
+            "ContractType": "0",
+            "ID": "129",
+            "MonthlyCompensation": "50000",
+            "Name": "llloinn",
+            "SSN": "0",
+            "Salary": "50000",
+            "Tel": ""
+        },
+        {
+            "BonusPercentage": "100",
+            "ContractType": "2",
+            "ID": "130",
+            "MonthlyCompensation": "10",
+            "Name": "jkhkn",
+            "OutcomeClaim": "1",
+            "RealizedOutput": "100",
+            "SSN": "0",
+            "Salary": "10010",
+            "Tel": ""
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "10",
+            "ID": "131",
+            "Name": "okuju",
+            "NumberOfHours": "50",
+            "SSN": "0",
+            "Salary": "500",
+            "Tel": ""
+        },
+        {
+            "ContractType": "1",
+            "HourlyCompensation": "10",
+            "ID": "131",
+            "Name": "dfefzef",
+            "NumberOfHours": "50",
+            "SSN": "0",
+            "Salary": "500",
+            "Tel": ""
+        }]
+}
